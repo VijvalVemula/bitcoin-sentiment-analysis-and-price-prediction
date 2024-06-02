@@ -46,4 +46,4 @@ We'll use the `yfinance` package to download the Bitcoin price data as part of t
 
 1. Run the code in `sentiment-analysis.ipynb` to generate a new Wikipedia edits dataset. The committed dataset is outdated, and this step ensures it includes the latest edits.
 2. Execute the code in `price-prediction.ipynb`. By default, it loads data from an existing `btc.csv` file. Removing this code will ensure it downloads the latest data from Yahoo Finance.
-# bitcoin-sentiment-analysis-and-price-prediction
+
