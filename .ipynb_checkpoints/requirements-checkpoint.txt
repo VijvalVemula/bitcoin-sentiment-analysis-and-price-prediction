@@ -1,0 +1,7 @@
+pandas
+mwclient
+scikit-learn
+transformers
+xgboost
+yfinance
+matplotlib
